@@ -29,7 +29,7 @@ Supported versions
 ------------------
 
 Django: 3.2, 4.2
-Python: 3.8, 3.9, 3.10, 3.11, 3.12
+Python: 3.9, 3.10, 3.11, 3.12
 
 For Python 2.7 and/or Django 1.11 support, the 0.5 release series is identical (features-wise)
 to 0.6 and is available on PyPI: https://pypi.org/project/django-bread/#history

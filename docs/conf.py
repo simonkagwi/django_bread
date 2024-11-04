@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 #
 # Django Bread documentation build configuration file, created by
 # sphinx-quickstart on Wed Apr 22 11:14:08 2015.
